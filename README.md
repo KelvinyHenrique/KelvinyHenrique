@@ -1,16 +1,37 @@
-### Hi there 👋
 
-<!--
-**KelvinyHenrique/KelvinyHenrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div width="100%">
+<h2 align="center"> Hi, I'm Kelviny Henrique!</h2>
 
-Here are some ideas to get you started:
+ <p align="center">
+ <img src="https://i.imgur.com/eCcGKZB.png" width="30%">
+<p>
+  
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/?username=kelvinyhenrique&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+  <p>
+    
+```javascript
+const kelviny = {
+  hobbies: [Iot, Rockets, Mechanics, Astronomy],
+  code: [Javascript, C++, Html, Css, Python, Php],
+  frameworks: [Laravel, VueJS, React, React Native, Laravel, Node],
+  tools: [Figma, Adobe Illustrator],
+  techCommunities: {
+                        frontent: "Ukecode",
+                        cofounder: "SpaceMonkeys",
+                      },
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinyhenrique&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+</p>
+
+<p>
+Playing Now <img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/spotify-512.png" width="13px"></img>
+</p>
+<p align="left">
+  <img  src="https://spotify-github-profile.vercel.app/api/view?uid=kelvinyhenrique&cover_image=true&theme=natemoo-re"></img>
+</p>
+
+</div>
