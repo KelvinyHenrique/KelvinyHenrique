@@ -14,7 +14,7 @@
 const kelviny = {
   hobbies: [Iot, Rockets, Mechanics, Astronomy],
   code: [Javascript, C++, Html, Css, Python, Php],
-  frameworks: [Laravel, VueJS, React, React Native, Laravel, Node],
+  frameworks: [Laravel, VueJS, React, React Native, Node],
   tools: [Figma, Adobe Illustrator],
   techCommunities: {
                         frontent: "Ukecode",
