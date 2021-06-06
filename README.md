@@ -17,7 +17,7 @@ const kelviny = {
   frameworks: [Laravel, VueJS, React, React Native, Node],
   tools: [Figma, Adobe Illustrator],
   techCommunities: {
-                        frontent: "Ukecode",
+                        frontend: "Ukecode",
                         cofounder: "SpaceMonkeys",
                       },
 }
