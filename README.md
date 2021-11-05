@@ -1,11 +1,10 @@
 
 <div width="100%">
  <img src="hello.png"/>
-</br> 
-</br> 
 
+![](https://komarev.com/ghpvc/?username=kelvinyhenrique&style=flat-square)
 ![](https://hit.yhype.me/github/profile?user_id=21090726)
-  </br> </br> 
+ </br> 
 <p>I'm a Full Stack developer, I love working with challenging and creative projects.</br>
 As a programmer, I am constantly looking for best practices and also trying new things.</br>
 I love working and collaborating with teams and, in my free time, I like to develop projects, you can check some of these projects here 🙃</p>
