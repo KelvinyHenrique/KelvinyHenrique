@@ -1,9 +1,9 @@
 
 <div width="100%">
  <img src="hello.png"/>
- </br> </br> 
-
- 
+</br> 
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green
+  </br> </br> 
 <p>I'm a Full Stack developer, I love working with challenging and creative projects.</br>
 As a programmer, I am constantly looking for best practices and also trying new things.</br>
 I love working and collaborating with teams and, in my free time, I like to develop projects, you can check some of these projects here 🙃</p>
