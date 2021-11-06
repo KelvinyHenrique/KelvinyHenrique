@@ -1,24 +1,73 @@
 
 <div width="100%">
- <img src="hello.png"/>
+
+   <h2 align="center" style="font-weight: bold">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Kelviny </h2>
 </br> 
 </br> 
 
 ![](https://komarev.com/ghpvc/?username=kelvinyhenrique&style=flat-square)
 ![](https://hit.yhype.me/github/profile?user_id=21090726)
   </br> </br> 
+  <h2 align="center"> 👨‍💻 Whoami</h2>
+    </br>
 <p>I'm a Full Stack developer, I love working with challenging and creative projects.</br>
 As a programmer, I am constantly looking for best practices and also trying new things.</br>
 I love working and collaborating with teams and, in my free time, I like to develop projects, you can check some of these projects here 🙃</p>
- <p align="center">
- <img src="https://i.imgur.com/eCcGKZB.png" width="30%">
-<p>
-  
-  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=kelvinyhenrique&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
-  <p>
+ <p align="center"  style="margin-top:-50px;">
+ <img src="Science-bro.svg" width="50%">
+ <blockquote><p align="center" style="margin-top:-60px;font-weight: 600;">The important thing is not to stop questioning; curiosity has its own reason for existing.</p></blockquote>
+</p>
+</br> 
 
-### 🧐 More About Me:
+## Trophies 🏆
+---
+
+
+<img src="https://github-profile-trophy.vercel.app/?username=kelvinyhenrique&row=5&column=7&theme=radical&margin-w=15" alt="kelvinyhenrique" />
+
+<br/>
+
+ <p align="center">
+ 
+## Stats 📈
+---
+
+
+</tr>
+    
+<table align="center" cellspacing="0" cellpadding="0" border="0">
+   <tr>
+    <td>
+      <a href="#" target="_blank">
+       <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=kelvinyhenrique&show_icons=true&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true" alt="Kelviny Henrique's Github Stats" />
+      <a/>
+    </td>
+    <td>
+      <a href="#" target="_blank">
+        <img  src="https://github-readme-stats.vercel.app/api?username=kelvinyhenrique&include_all_commits=true&count_private=true&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true" alt="Kelviny Henrique's Github Stats">
+      <a/>
+    </td>
+   </tr>
+  <tr>
+  <tr>
+    <td>
+      <a href="#" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kelvinyhenrique&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true" alt="Kelviny Henrique's Github Stats">
+      <a/>
+    </td>
+    <td>
+      <a href=#" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Space-Monkeys&repo=FarmBox_Firmware_V2&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true" alt="Kelviny Henrique's Github Stats">
+      <a/>
+    </td>
+   </tr>
+</table>
+      
+---
+</p>
+
+## 🧐 More About Me:
+<br/>
 
 - 🔭 &nbsp; I’m currently working on [Farmbox](https://github.com/Space-Monkeys/FarmBox_Firmware_V2)
 - 🌱 &nbsp;   I’m currently learning Cypress 
@@ -44,8 +93,5 @@ const kelviny = {
 }
 ```
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinyhenrique&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
-</p>
   <img src="https://github.com/kelvinyhenrique/kelvinyhenrique/blob/output/github-contribution-grid-snake.svg"/>
 </div>
