@@ -1,7 +1,7 @@
 
 <div width="100%">
 
-   <h2 align="center" style="font-weight: bold">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px">, I'm Kelviny </h2>
+   <h2 align="center" style="font-weight: bold">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">, I'm Kelviny </h2>
 </br> 
 </br> 
 
